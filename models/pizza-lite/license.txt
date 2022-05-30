@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pizza
+* source:	https://sketchfab.com/3d-models/pizza-64eea8d653f0488f93415ba5a59b6ea7
+* author:	Clément Pasquier (https://sketchfab.com/quack)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pizza" (https://sketchfab.com/3d-models/pizza-64eea8d653f0488f93415ba5a59b6ea7) by Clément Pasquier (https://sketchfab.com/quack) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
