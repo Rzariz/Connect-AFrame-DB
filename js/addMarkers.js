@@ -8,6 +8,7 @@ AFRAME.registerComponent("create-markers", {
     var dishes = await this.getDishes();
    
     dishes.map(dish => {
+      
       var marker = document.createElement("a-marker");   
       marker.setAttribute("id", dish.id);
       marker.setAttribute("type", "pattern");
@@ -80,6 +81,9 @@ AFRAME.registerComponent("create-markers", {
       mainPlane.appendChild(ingredients);
     });
   },
+
+  //map function ends here
+
   //function to get the dishes collection from firestore database
   getDishes: async function() {
     return await firebase
