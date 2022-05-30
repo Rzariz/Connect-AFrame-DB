@@ -1,4 +1,6 @@
 1. Start with SA1
+
+https://github.com/whitehatjr/web-ar-assets
 2. upload the models and markers folder in student github ORELSE use the reference
 [ .gltf ,  .patt, .png ]
 3. goto createmarker.js ( called in index.html). Write code
